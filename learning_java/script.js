@@ -6,7 +6,7 @@ const helloSpeaker = {
 	helloSpeaker.speak = function (userName) {
 		return (helloSpeaker.speakWord + " " + userName);
 	}
-}());
+})();
 
 
 //2
@@ -19,7 +19,7 @@ const byeSpeaker = {
 	byeSpeaker.speak = function (userName) {
 		return (byeSpeaker.speakWord + " " + userName);
 	}
-}());
+})();
 
 //3
 //This choose the names
